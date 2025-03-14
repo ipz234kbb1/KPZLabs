@@ -1,0 +1,15 @@
+D:\Projects\Rider\KPZLabs\Lab-2\task5\BuilderPatternDemo\obj\Debug\net9.0\BuilderPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Rider\KPZLabs\Lab-2\task5\BuilderPatternDemo\obj\Debug\net9.0\BuilderPatternDemo.AssemblyInfoInputs.cache
+D:\Projects\Rider\KPZLabs\Lab-2\task5\BuilderPatternDemo\obj\Debug\net9.0\BuilderPatternDemo.AssemblyInfo.cs
+D:\Projects\Rider\KPZLabs\Lab-2\task5\BuilderPatternDemo\obj\Debug\net9.0\BuilderPatternDemo.csproj.CoreCompileInputs.cache
+D:\Projects\Rider\KPZLabs\Lab-2\task5\BuilderPatternDemo\obj\Debug\net9.0\BuilderPatternDemo.sourcelink.json
+D:\Projects\Rider\KPZLabs\Lab-2\task5\BuilderPatternDemo\bin\Debug\net9.0\BuilderPatternDemo.exe
+D:\Projects\Rider\KPZLabs\Lab-2\task5\BuilderPatternDemo\bin\Debug\net9.0\BuilderPatternDemo.deps.json
+D:\Projects\Rider\KPZLabs\Lab-2\task5\BuilderPatternDemo\bin\Debug\net9.0\BuilderPatternDemo.runtimeconfig.json
+D:\Projects\Rider\KPZLabs\Lab-2\task5\BuilderPatternDemo\bin\Debug\net9.0\BuilderPatternDemo.dll
+D:\Projects\Rider\KPZLabs\Lab-2\task5\BuilderPatternDemo\bin\Debug\net9.0\BuilderPatternDemo.pdb
+D:\Projects\Rider\KPZLabs\Lab-2\task5\BuilderPatternDemo\obj\Debug\net9.0\BuilderPatternDemo.dll
+D:\Projects\Rider\KPZLabs\Lab-2\task5\BuilderPatternDemo\obj\Debug\net9.0\refint\BuilderPatternDemo.dll
+D:\Projects\Rider\KPZLabs\Lab-2\task5\BuilderPatternDemo\obj\Debug\net9.0\BuilderPatternDemo.pdb
+D:\Projects\Rider\KPZLabs\Lab-2\task5\BuilderPatternDemo\obj\Debug\net9.0\BuilderPatternDemo.genruntimeconfig.cache
+D:\Projects\Rider\KPZLabs\Lab-2\task5\BuilderPatternDemo\obj\Debug\net9.0\ref\BuilderPatternDemo.dll

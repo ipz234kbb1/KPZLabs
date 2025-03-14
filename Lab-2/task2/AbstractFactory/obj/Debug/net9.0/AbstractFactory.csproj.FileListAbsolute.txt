@@ -1,0 +1,15 @@
+D:\Projects\Rider\KPZLabs\Lab-2\task2\AbstractFactory\bin\Debug\net9.0\AbstractFactory.exe
+D:\Projects\Rider\KPZLabs\Lab-2\task2\AbstractFactory\bin\Debug\net9.0\AbstractFactory.deps.json
+D:\Projects\Rider\KPZLabs\Lab-2\task2\AbstractFactory\bin\Debug\net9.0\AbstractFactory.runtimeconfig.json
+D:\Projects\Rider\KPZLabs\Lab-2\task2\AbstractFactory\bin\Debug\net9.0\AbstractFactory.dll
+D:\Projects\Rider\KPZLabs\Lab-2\task2\AbstractFactory\bin\Debug\net9.0\AbstractFactory.pdb
+D:\Projects\Rider\KPZLabs\Lab-2\task2\AbstractFactory\obj\Debug\net9.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Rider\KPZLabs\Lab-2\task2\AbstractFactory\obj\Debug\net9.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\Projects\Rider\KPZLabs\Lab-2\task2\AbstractFactory\obj\Debug\net9.0\AbstractFactory.AssemblyInfo.cs
+D:\Projects\Rider\KPZLabs\Lab-2\task2\AbstractFactory\obj\Debug\net9.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Projects\Rider\KPZLabs\Lab-2\task2\AbstractFactory\obj\Debug\net9.0\AbstractFactory.sourcelink.json
+D:\Projects\Rider\KPZLabs\Lab-2\task2\AbstractFactory\obj\Debug\net9.0\AbstractFactory.dll
+D:\Projects\Rider\KPZLabs\Lab-2\task2\AbstractFactory\obj\Debug\net9.0\refint\AbstractFactory.dll
+D:\Projects\Rider\KPZLabs\Lab-2\task2\AbstractFactory\obj\Debug\net9.0\AbstractFactory.pdb
+D:\Projects\Rider\KPZLabs\Lab-2\task2\AbstractFactory\obj\Debug\net9.0\AbstractFactory.genruntimeconfig.cache
+D:\Projects\Rider\KPZLabs\Lab-2\task2\AbstractFactory\obj\Debug\net9.0\ref\AbstractFactory.dll
