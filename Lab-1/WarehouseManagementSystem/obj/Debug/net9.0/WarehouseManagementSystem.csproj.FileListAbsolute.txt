@@ -1,0 +1,15 @@
+D:\Projects\Rider\KPZLabs\Lab-1\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Rider\KPZLabs\Lab-1\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.AssemblyInfoInputs.cache
+D:\Projects\Rider\KPZLabs\Lab-1\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.AssemblyInfo.cs
+D:\Projects\Rider\KPZLabs\Lab-1\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.csproj.CoreCompileInputs.cache
+D:\Projects\Rider\KPZLabs\Lab-1\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.sourcelink.json
+D:\Projects\Rider\KPZLabs\Lab-1\WarehouseManagementSystem\bin\Debug\net9.0\WarehouseManagementSystem.exe
+D:\Projects\Rider\KPZLabs\Lab-1\WarehouseManagementSystem\bin\Debug\net9.0\WarehouseManagementSystem.deps.json
+D:\Projects\Rider\KPZLabs\Lab-1\WarehouseManagementSystem\bin\Debug\net9.0\WarehouseManagementSystem.runtimeconfig.json
+D:\Projects\Rider\KPZLabs\Lab-1\WarehouseManagementSystem\bin\Debug\net9.0\WarehouseManagementSystem.dll
+D:\Projects\Rider\KPZLabs\Lab-1\WarehouseManagementSystem\bin\Debug\net9.0\WarehouseManagementSystem.pdb
+D:\Projects\Rider\KPZLabs\Lab-1\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.dll
+D:\Projects\Rider\KPZLabs\Lab-1\WarehouseManagementSystem\obj\Debug\net9.0\refint\WarehouseManagementSystem.dll
+D:\Projects\Rider\KPZLabs\Lab-1\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.pdb
+D:\Projects\Rider\KPZLabs\Lab-1\WarehouseManagementSystem\obj\Debug\net9.0\WarehouseManagementSystem.genruntimeconfig.cache
+D:\Projects\Rider\KPZLabs\Lab-1\WarehouseManagementSystem\obj\Debug\net9.0\ref\WarehouseManagementSystem.dll
