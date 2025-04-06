@@ -1,0 +1,15 @@
+D:\Projects\Rider\KPZLabs\Lab-3\task1\Adapter\bin\Debug\net9.0\Adapter.exe
+D:\Projects\Rider\KPZLabs\Lab-3\task1\Adapter\bin\Debug\net9.0\Adapter.deps.json
+D:\Projects\Rider\KPZLabs\Lab-3\task1\Adapter\bin\Debug\net9.0\Adapter.runtimeconfig.json
+D:\Projects\Rider\KPZLabs\Lab-3\task1\Adapter\bin\Debug\net9.0\Adapter.dll
+D:\Projects\Rider\KPZLabs\Lab-3\task1\Adapter\bin\Debug\net9.0\Adapter.pdb
+D:\Projects\Rider\KPZLabs\Lab-3\task1\Adapter\obj\Debug\net9.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Rider\KPZLabs\Lab-3\task1\Adapter\obj\Debug\net9.0\Adapter.AssemblyInfoInputs.cache
+D:\Projects\Rider\KPZLabs\Lab-3\task1\Adapter\obj\Debug\net9.0\Adapter.AssemblyInfo.cs
+D:\Projects\Rider\KPZLabs\Lab-3\task1\Adapter\obj\Debug\net9.0\Adapter.csproj.CoreCompileInputs.cache
+D:\Projects\Rider\KPZLabs\Lab-3\task1\Adapter\obj\Debug\net9.0\Adapter.sourcelink.json
+D:\Projects\Rider\KPZLabs\Lab-3\task1\Adapter\obj\Debug\net9.0\Adapter.dll
+D:\Projects\Rider\KPZLabs\Lab-3\task1\Adapter\obj\Debug\net9.0\refint\Adapter.dll
+D:\Projects\Rider\KPZLabs\Lab-3\task1\Adapter\obj\Debug\net9.0\Adapter.pdb
+D:\Projects\Rider\KPZLabs\Lab-3\task1\Adapter\obj\Debug\net9.0\Adapter.genruntimeconfig.cache
+D:\Projects\Rider\KPZLabs\Lab-3\task1\Adapter\obj\Debug\net9.0\ref\Adapter.dll
