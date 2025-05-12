@@ -1,0 +1,15 @@
+D:\Projects\Rider\KPZLabs\Lab-4\task5\bin\Debug\net7.0\Task5.exe
+D:\Projects\Rider\KPZLabs\Lab-4\task5\bin\Debug\net7.0\Task5.deps.json
+D:\Projects\Rider\KPZLabs\Lab-4\task5\bin\Debug\net7.0\Task5.runtimeconfig.json
+D:\Projects\Rider\KPZLabs\Lab-4\task5\bin\Debug\net7.0\Task5.dll
+D:\Projects\Rider\KPZLabs\Lab-4\task5\bin\Debug\net7.0\Task5.pdb
+D:\Projects\Rider\KPZLabs\Lab-4\task5\obj\Debug\net7.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Rider\KPZLabs\Lab-4\task5\obj\Debug\net7.0\Task5.AssemblyInfoInputs.cache
+D:\Projects\Rider\KPZLabs\Lab-4\task5\obj\Debug\net7.0\Task5.AssemblyInfo.cs
+D:\Projects\Rider\KPZLabs\Lab-4\task5\obj\Debug\net7.0\Task5.csproj.CoreCompileInputs.cache
+D:\Projects\Rider\KPZLabs\Lab-4\task5\obj\Debug\net7.0\Task5.sourcelink.json
+D:\Projects\Rider\KPZLabs\Lab-4\task5\obj\Debug\net7.0\Task5.dll
+D:\Projects\Rider\KPZLabs\Lab-4\task5\obj\Debug\net7.0\refint\Task5.dll
+D:\Projects\Rider\KPZLabs\Lab-4\task5\obj\Debug\net7.0\Task5.pdb
+D:\Projects\Rider\KPZLabs\Lab-4\task5\obj\Debug\net7.0\Task5.genruntimeconfig.cache
+D:\Projects\Rider\KPZLabs\Lab-4\task5\obj\Debug\net7.0\ref\Task5.dll
